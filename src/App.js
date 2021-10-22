@@ -6,13 +6,14 @@ import Projects from "./components/Projects/Projects"
 
 function App(){
     return(
-        <>
+        <div className="container-all">
             <Navbar/>
-            <Home/>
-            {/*
-            <Projects/>
-            <Footer/> */}
-        </>
+            <div className="container-sub">
+                <Home/>
+                <Projects/>
+                <Footer/>
+            </div>
+        </div>
     )
 }
 

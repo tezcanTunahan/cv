@@ -3,3 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+.container-all{
+    display: flex;
+}
+.container-sub{
+    width: 91.5vw;
+}

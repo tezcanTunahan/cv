@@ -1,8 +1,8 @@
-
+import "./footer.css"
 
 function Footer(){
     return(
-        <div>
+        <div className="footer-container">
             Footer
         </div>
     )
