@@ -20,7 +20,6 @@ nav{
     flex-direction: column;
     height: 40vh;
     list-style-type: none;
-    color: rgb(169, 169, 169);
 }
 .nav-hr{
     width: 80px;
@@ -30,7 +29,11 @@ nav{
     cursor: pointer;
     font-weight: bolder;
 }
-.nav-li:hover{
+.nav-a{
+    color: rgb(169, 169, 169);
+    text-decoration: none;
+}
+.nav-a:hover{
     color: turquoise;
     transform: translateY(-3px);
     transition: all 1s 0s;

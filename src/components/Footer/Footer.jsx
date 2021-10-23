@@ -2,7 +2,7 @@ import "./footer.css"
 
 function Footer(){
     return(
-        <div className="footer-container">
+        <div className="footer-container" id="Contact">
             <h2>You can find me </h2>
             <div className="icons">
                 <a className="link" href="https://github.com/tezcanTunahan"><i class="fab fa-github"></i></a>

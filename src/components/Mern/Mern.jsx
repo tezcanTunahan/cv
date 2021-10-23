@@ -2,7 +2,7 @@ import "./mern.css"
 
 function Mern(){
     return(
-        <div className="mern-container">
+        <div className="mern-container" id="Skills">
             <h1 className="mern-h1">MERN</h1>
             <div className="mern-icon-container">
             <i class="fas fa-database"></i>

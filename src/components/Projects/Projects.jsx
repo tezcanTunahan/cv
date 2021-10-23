@@ -18,7 +18,7 @@ function Projects(){
     }
 
     return(
-        <div className="projects-container">
+        <div className="projects-container" id="Projects">
             <div onClick={openResidue} class="flip-card">
             <div  class="flip-card-inner">
                 <div class="flip-card-front">

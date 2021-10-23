@@ -8,13 +8,13 @@ function Navbar(){
             <h1>Tunahan</h1>
             <p>web developer</p>
             <ul className="nav-ul">
-                <li className="nav-li">About</li>
+                <li className="nav-li"><a className="nav-a" href="#About">About</a></li>
                 <hr className="nav-hr"/>
-                <li className="nav-li">My Skills</li>
+                <li className="nav-li"><a className="nav-a" href="#Skills">My Skills</a></li>
                 <hr className="nav-hr"/>
-                <li className="nav-li">Projects</li>
+                <li className="nav-li"><a className="nav-a" href="#Projects">Projects</a></li>
                 <hr className="nav-hr"/>
-                <li className="nav-li">Contact</li>
+                <li className="nav-li"><a className="nav-a" href="#Contact">Contact</a></li>
             </ul>
         </nav>
         )
