@@ -1,3 +1,8 @@
+ It's a react app I make this one for personal website as a cv
+ https://tunahantezcan.netlify.app/
+
+![Screenshot (97)](https://user-images.githubusercontent.com/84778158/138554072-f59ecf7c-e60a-453b-8edb-b8fbc225a81b.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
