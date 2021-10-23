@@ -39,6 +39,12 @@ nav{
 }
 .nav-a:hover{
     color: turquoise;
-    transform: translateY(-3px);
     transition: all 1s 0s;
 }
+
+  
+@media screen and (max-width: 700px) {
+    nav{
+        display: none;
+    }
+} 
