@@ -1,4 +1,30 @@
 .home-container{
+    display: flex;
+    flex-direction: column;
+    font-family: 'Kaushan Script', cursive;
+    font-family: 'Ubuntu', sans-serif;
     height: 100vh;
-    background-color: red;
+    background-color: rgb(44, 44, 44);
+    color: white;
+    align-items: flex-start ;
+    justify-content: center ;
+}
+.home-h1{
+    margin-left: 70px;
+    font-size: 60px;
+}
+.home-btn{
+    font-size: 20px;
+    margin-top: 70px;
+    margin-left: 70px;
+    padding: 12px 40px;
+    background-color: transparent;
+    color: turquoise;
+    border: 1px solid turquoise;
+    cursor: pointer;
+}
+.home-btn:hover{
+    background-color: turquoise;
+    color: rgb(44, 44, 44);
+    transition: all 1s ease-in-out ;
 }
