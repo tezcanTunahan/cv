@@ -10,3 +10,9 @@
 .container-sub{
     width: 91.5vw;
 }
+
+/* @media screen and (max-width: 900px) {
+    body{
+        display: none;
+    }
+} */
