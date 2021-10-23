@@ -13,6 +13,10 @@ nav{
     position: sticky;
     top: 0px;
 }
+.logo{
+    color: white;
+    text-decoration: none;
+}
 .nav-ul{
     display: flex;
     align-items: center;

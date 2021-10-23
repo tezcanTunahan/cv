@@ -5,7 +5,7 @@ function Navbar(){
 
     return(
         <nav>
-            <h1>Tunahan</h1>
+            <h1><a className="logo" href="http://localhost:3000/">Tunahan</a></h1>
             <p>web developer</p>
             <ul className="nav-ul">
                 <li className="nav-li"><a className="nav-a" href="#About">About</a></li>
